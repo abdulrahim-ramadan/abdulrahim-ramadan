@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrhim Ramadan</h1>
 <h3 align="center">A passionate frontend developer from Syrian</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=plastic" alt="abdulrahim-ramadan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahim-ramadan" alt="abdulrahim-ramadan" /></a> </p>
 
@@ -15,6 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/abode471457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abode471457" height="30" width="40" /></a>
+<a href="https://instagram.com/sz.xj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sz.xj" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahim-ramadan&show_icons=true&locale=en&layout=compact" alt="abdulrahim-ramadan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahim-ramadan&show_icons=true&locale=en" alt="abdulrahim-ramadan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahim-ramadan&show_icons=true&cache_seconds=1800&locale=en" alt="abdulrahim-ramadan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahim-ramadan&" alt="abdulrahim-ramadan" /></p>
