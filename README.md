@@ -24,6 +24,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahim-ramadan&show_icons=true&cache_seconds=1800&locale=en" alt="abdulrahim-ramadan" /></p>
 
+<img src="https://i.imgur.com/7KpCS0Y.jpg" onclick="window.open(this.src)">
+
 
 
 
