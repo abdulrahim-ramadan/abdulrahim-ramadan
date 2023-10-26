@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahim-ramadan&show_icons=true&cache_seconds=1800&locale=en" alt="abdulrahim-ramadan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrahim-ramadan&" alt="abdulrahim-ramadan" /></p>
+
 
 
 <img align="right" width='100%' src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
