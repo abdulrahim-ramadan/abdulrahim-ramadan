@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahim-ramadan" alt="abdulrahim-ramadan" /></a> </p>
+
 
 - 🌱 I’m currently learning **Web Development**
 
