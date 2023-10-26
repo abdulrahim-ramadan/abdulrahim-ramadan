@@ -27,7 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahim-ramadan&show_icons=true&cache_seconds=1800&locale=en" alt="abdulrahim-ramadan" /></p>
 
-<img src="img/img2.webp" alt="">
+
 
 
 
