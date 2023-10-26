@@ -6,8 +6,7 @@
 </div>
 
 
-<img src='https://img.shields.io/badge/%20-Linkedin-blue?logo=linkedin'>
-
+<p align='center'>
 
 
 - 🌱 I’m currently learning **Web Development**
