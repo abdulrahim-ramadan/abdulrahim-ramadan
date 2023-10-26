@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abdulrhim Ramadan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=plastic" alt="abdulrahim-ramadan" /> </p>
 <h3 align="center">A passionate frontend developer</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahim-ramadan" alt="abdulrahim-ramadan" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
