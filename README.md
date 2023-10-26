@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulrhim Ramadan</h1>
 <h3 align="center">A passionate frontend developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=plastic" alt="abdulrahim-ramadan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahim-ramadan" alt="abdulrahim-ramadan" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -24,5 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahim-ramadan&show_icons=true&locale=en&layout=compact" alt="abdulrahim-ramadan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahim-ramadan&show_icons=true&cache_seconds=1800&locale=en" alt="abdulrahim-ramadan" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=plastic" alt="abdulrahim-ramadan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrahim-ramadan" alt="abdulrahim-ramadan" /></a> </p>
 
 
