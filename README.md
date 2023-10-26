@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdulrhim Ramadan</h1>
-<h3 align="center">A passionate frontend developer from Syrian</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=plastic" alt="abdulrahim-ramadan" /> </p>
 
