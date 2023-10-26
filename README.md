@@ -29,5 +29,5 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+and+%E2%9D%A4%EF%B8%8F+for+sticking+around+me+%F0%9F%99%82" alt="Typing SVG" /></a>
+
 
