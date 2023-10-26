@@ -26,6 +26,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulrahim-ramadan&show_icons=true&locale=en&layout=compact" alt="abdulrahim-ramadan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdulrahim-ramadan&show_icons=true&cache_seconds=1800&locale=en" alt="abdulrahim-ramadan" /></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Thank+you+and+%E2%9D%A4%EF%B8%8F+for+sticking+around+me+%F0%9F%99%82" alt="Typing SVG" /></a>
 
 
 
