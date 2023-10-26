@@ -1,19 +1,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=plastic" alt="abdulrahim-ramadan" /> </p>
-<div class="l-container">
-  <div class="b-game-card">
-    <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_1.jpg);"></div>
-  </div>
-  <div class="b-game-card">
-    <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_2.jpg);"></div>
-  </div>
-  <div class="b-game-card">
-    <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_3.jpg);"></div>
-  </div>
-  <div class="b-game-card">
-    <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_4.jpg);"></div>
-  </div>
-</div>
-
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrhim+Ramadan;A+passionate+frontend+developer" alt="Typing SVG" /></a>
 
