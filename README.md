@@ -1,4 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=plastic" alt="abdulrahim-ramadan" /> </p>
+<img src="https://media.giphy.com/media/IfgYyHyuHvRYVxXrId/giphy.gif" height="30" /> :
+    <br>
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrhim+Ramadan;A+passionate+frontend+developer" alt="Typing SVG" /></a>
