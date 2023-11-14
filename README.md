@@ -25,7 +25,7 @@ Hi! I’m Abdulrahim Ramadan , and I’m a python developer who has passion for 
 
 - 📫 How to reach me **Abdalrhim19991@hotmail.com**
 
-- ⚡ Fun fact **I love vacation**
+- ⚡ Fun fact **I love vacation***
 
 
 
