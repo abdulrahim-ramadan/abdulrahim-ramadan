@@ -1,4 +1,3 @@
-## About "chaoscalm" <a href="https://github.com/chaoscalm/"><img height="30" src="./img/kyubey.gif"></a>    
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
