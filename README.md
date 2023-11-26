@@ -33,7 +33,7 @@ Hi! I’m Abdulrahim Ramadan , and I’m a python developer who has passion for 
 <p align="left">
 <a href="https://twitter.com/abode471457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abode471457" height="30" width="40" /></a>
 <a href="https://instagram.com/sz.xj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sz.xj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdulrahim-ramadan-3983b6299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahim-ramadan-3983b6299/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdulrahim-ramadan-3983b6299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahim-ramadan-3983b6299/" height="30" width="40" /></a>
 </p>
 
 
