@@ -1,5 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=plastic" alt="abdulrahim-ramadan" /> 
-    
+## About "chaoscalm" <a href="https://github.com/chaoscalm/"><img height="30" src="./img/kyubey.gif"></a>    
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
