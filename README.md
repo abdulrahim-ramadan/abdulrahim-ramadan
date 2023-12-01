@@ -1,4 +1,4 @@
-
+<!-- Title -->
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -27,7 +27,7 @@ Hi! I’m Abdulrahim Ramadan , and I’m a python developer who has passion for 
 
 
 
-
+<!-- Socials -->
 <p align="left">
 <a href="https://twitter.com/abode471457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abode471457" height="30" width="40" /></a>
 <a href="https://instagram.com/sz.xj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sz.xj" height="30" width="40" /></a>
@@ -38,7 +38,7 @@ Hi! I’m Abdulrahim Ramadan , and I’m a python developer who has passion for 
 <img  width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Skills & Tools__ </span>  <img width='44%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 
 
-
+<!-- Skills & Tools -->
 <p  <a href="https://www.python.org/">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
    <td align="center" width="96">
@@ -57,6 +57,7 @@ Hi! I’m Abdulrahim Ramadan , and I’m a python developer who has passion for 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="linux" width="50" height="50" />
+        </p>
         
   
         
