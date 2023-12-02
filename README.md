@@ -29,9 +29,8 @@ Hi! I’m Abdulrahim Ramadan , and I’m a python developer who has passion for 
 
 <!-- Socials -->
 <p align="left">
-<a href="https://twitter.com/abode471457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abode471457" height="30" width="40" /></a>
-<a href="https://instagram.com/sz.xj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sz.xj" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/abdulrahim-ramadan-3983b6299/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdulrahim-ramadan-3983b6299/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdulrahim-ramadan-3983b6299/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100"></a>
+<a href="https://instagram.com/sz.xj"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100"></a>
 </p>
 
 
