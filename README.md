@@ -1,4 +1,5 @@
 <!-- Title -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan" /> </p>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
