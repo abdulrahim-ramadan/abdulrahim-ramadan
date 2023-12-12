@@ -77,7 +77,7 @@ Hi! I’m Abdulrahim Ramadan , and I’m a python developer who has passion for 
 
 
 
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
 
