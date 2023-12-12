@@ -1,5 +1,6 @@
 <!-- Title -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan" /> </p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
@@ -77,6 +78,8 @@ Hi! I’m Abdulrahim Ramadan , and I’m a python developer who has passion for 
 
 
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/main/src/header_.png" />
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
 
 
 <!-- end -->
