@@ -15,8 +15,8 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-“Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafting refined web applications with seamless functionalities. My expertise lies in transforming innovative concepts into pragmatic solutions through creative problem-solving. I am committed to continuous learning, keeping pace with evolving skills, tools, and industry trends. Currently, I am focused on advancing my proficiency in web development.
-  
+Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafting refined web applications with seamless functionalities. My expertise lies in transforming innovative concepts into pragmatic solutions through creative problem-solving. I am committed to continuous learning, keeping pace with evolving skills, tools, and industry trends. Currently, I am focused on advancing my proficiency in web development.
+
  <img  width='35%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Contact Me__ </span>  <img width='35%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 
 
