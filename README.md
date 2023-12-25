@@ -84,7 +84,11 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
 
 
-<img align="right" width='100%' src="https://raw.githubusercontent.com/imrrobat/imrrobat/d1b244e170d2b75fdda3efd499eaaf163f7a617c/images/github-contribution-grid-snake.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 
