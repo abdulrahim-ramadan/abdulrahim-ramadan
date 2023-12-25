@@ -80,8 +80,11 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
  <img  width='35%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Learn to code__ </span>  <img width='35%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
 
+<p align="left">
 <a href="https://www.hackerrank.com/profile/abdalrhim19991"><img src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/128/FontAwesome-Brands-Hackerrank-icon.png" width="45" height="45"></a>
 
+<img src="https://icons.iconarchive.com/icons/sykonist/looney-tunes/128/Gossamer-Angry-icon.png" width="45" height="45">
+</p>
 
 
 
