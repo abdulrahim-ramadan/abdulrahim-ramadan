@@ -1,6 +1,7 @@
 <!-- Title  -->
 
 <!-- Please ⭐ the repo to support our project  -->
+
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan"> 
  <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23433%26project%3D%26in%3D2160000000">
@@ -76,8 +77,14 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="linux" width="40" height="40" />
         </p>
         
-  
-        
+
+ <img  width='35%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'><span font-size='50px' width='20%' > __Learn to code__ </span>  <img width='35%' src='https://github.com/Afsanehaa/Afsanehaa/assets/115100233/1632db93-5d88-408c-aa7a-3be102febcd3'>
+
+<a href="https://www.hackerrank.com/profile/abdalrhim19991"><img src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/128/FontAwesome-Brands-Hackerrank-icon.png" width="45" height="45"></a>
+
+
+
+
         
        
  
