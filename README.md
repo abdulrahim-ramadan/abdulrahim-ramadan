@@ -84,6 +84,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 <p align="left">
 <a href="https://www.hackerrank.com/profile/abdalrhim19991"><img src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/128/FontAwesome-Brands-Hackerrank-icon.png" width="45" height="45"></a>
 <a href="https://edabit.com/user/PeAmHRaoZajrr2asa"><img src="https://icons.iconarchive.com/icons/spoon-graphics/monster/128/Green-Monster-icon.png" width="45" height="45"></a>
+<a href="https://www.sololearn.com/en/profile/31016423"><img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/sololearn-icon.png" width="45" height="45"></a>
 </p>
 
 
