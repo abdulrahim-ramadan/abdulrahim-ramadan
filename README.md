@@ -1,6 +1,6 @@
 <!-- Title  -->
 
-<!-- Please ⭐ the repo to support our project  -->
+<!-- Please ⭐ the repo to support our project -->
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan"> 
