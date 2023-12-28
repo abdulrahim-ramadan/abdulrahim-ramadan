@@ -24,7 +24,7 @@
 
 Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafting refined web applications with seamless functionalities. My expertise lies in transforming innovative concepts into pragmatic solutions through creative problem-solving. I am committed to continuous learning, keeping pace with evolving skills, tools, and industry trends. Currently, I am focused on advancing my proficiency in web development.
 
-<img width='45%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Tech Stack__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
+<img width='45%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Contact Me__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 
 
  
@@ -49,7 +49,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 </p>
 
 
-<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Tech Stack__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
+<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Skills & Tools__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 
 
 <!-- Skills & Tools -->
@@ -78,7 +78,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
         </p>
         
 
-<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Tech Stack__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
+<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Learn to code__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 
 
 <p align="left">
