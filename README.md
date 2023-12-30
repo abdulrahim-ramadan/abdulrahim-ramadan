@@ -76,8 +76,6 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
             <td align="center"  width="96">
         <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/css3.gif"width="40" height="40" alt="css3 logo"  />
             <td align="center"  width="96">
-        <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/vuejs.gif"width="40" height="40" alt="vuejs logo"  />
-            <td align="center"  width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"width="40" height="40" alt="bootstrap logo"  />
             <td align="center"  width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"width="40" height="40" alt="vscode logo"  />
