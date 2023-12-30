@@ -4,8 +4,8 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan"> 
- <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23433%26project%3D%26in%3D2160000000">
-  <a href="https://github.com/abdulrahim-ramadan"><img src="https://img.shields.io/github/stars/abdulrahim-ramadan?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
+ <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23433%26project%3D%26in%3D2160000000">
+ <img src="https://img.shields.io/github/stars/abdulrahim-ramadan?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=blue&style=social" alt="GitHub User's stars"></a>
 </p>
 
 
@@ -19,12 +19,12 @@
 
 
 <div align="center">
-  <img src="assets/abdulrhim-ramadan.webp" width="600" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafting refined web applications with seamless functionalities. My expertise lies in transforming innovative concepts into pragmatic solutions through creative problem-solving. I am committed to continuous learning, keeping pace with evolving skills, tools, and industry trends. Currently, I am focused on advancing my proficiency in web development.
 
-<img width='45%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Tech Stack__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
+<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Contact Me__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 
 
  
@@ -49,12 +49,12 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 </p>
 
 
-<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Tech Stack__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
+<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Skills & Tools__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 
 
 <!-- Skills & Tools -->
 <p  <a href="https://www.python.org/">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+  <img src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/icon/python..svg' alt="icon" width="40" height="40" />
    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
      <td align="center" width="96">
@@ -78,7 +78,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
         </p>
         
 
-<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Tech Stack__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
+<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Learn to code__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 
 
 <p align="left">
