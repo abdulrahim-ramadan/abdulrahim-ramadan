@@ -128,3 +128,4 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
 
 
+<img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Amazon Clone.gif"width="40" height="40" alt="Amazon Clone"  />
