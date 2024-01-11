@@ -83,6 +83,8 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
             <td align="center"  width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="linux" width="40" height="40" />
+             <td align="center"  width="96">
+             <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/.gif"width="40" height="40" alt="Amazon Clone"  />
         </p>
         
 
@@ -128,4 +130,4 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
 
 
-<img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Amazon Clone.gif"width="40" height="40" alt="Amazon Clone"  />
+<img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/.gif"width="40" height="40" alt="Amazon Clone"  />
