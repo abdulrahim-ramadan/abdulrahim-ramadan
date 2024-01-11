@@ -84,7 +84,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
             <td align="center"  width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="linux" width="40" height="40" />
              <td align="center"  width="96">
-             <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/.gif"width="40" height="40" alt="Amazon Clone"  />
+             <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Amazon Clone.gif"width="40" height="40" alt="Amazon Clone"  />
         </p>
         
 
