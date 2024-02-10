@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/abdulrahim-Ramadan.gif" width="500" height="400"/>
+  <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/abdulrahim-Ramadan.gif" width="600" height="500"/>
 </div>
 
 Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafting refined web applications with seamless functionalities. My expertise lies in transforming innovative concepts into pragmatic solutions through creative problem-solving. I am committed to continuous learning, keeping pace with evolving skills, tools, and industry trends. Currently, I am focused on advancing my proficiency in web development.
