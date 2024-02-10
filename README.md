@@ -7,8 +7,7 @@
  <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23433%26project%3D%26in%3D2160000000">
 
 
-
- <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/abdulrahim-Ramadan.gif" alt="GitHub User's stars"></a>
+ <img src="https://img.shields.io/github/stars/abdulrahim-ramadan?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=blue&style=social" alt="GitHub User's stars"></a>
 </p>
 
 
@@ -17,7 +16,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrhim+Ramadan;A+passionate+frontend+developer" alt="Typing SVG"  width='70%'/></a>
+<img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/abdulrahim-Ramadan.gif"width="40" height="40" alt="img"  />
 
 
 
@@ -52,7 +51,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 </p>
 
 
-<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Skills & Tools__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
+<img width='34%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Skills & Tools__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 
 
 <!-- Skills & Tools -->
@@ -131,3 +130,4 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
 
 
+<img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Amazon Clone.gif"width="40" height="40" alt="Amazon Clone"  />
