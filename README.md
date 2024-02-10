@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/abdulrahim-Ramadan.gif" width="500" height="400"/>
+  <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/abdulrahim-Ramadan.gif" width="600" height="600"/>
 </div>
 
 Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafting refined web applications with seamless functionalities. My expertise lies in transforming innovative concepts into pragmatic solutions through creative problem-solving. I am committed to continuous learning, keeping pace with evolving skills, tools, and industry trends. Currently, I am focused on advancing my proficiency in web development.
@@ -88,7 +88,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
 <img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Learn to code__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 
-
+<!-- Learning -->
 <p align="left">
 <a href="https://www.hackerrank.com/profile/abdalrhim19991"><img src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/128/FontAwesome-Brands-Hackerrank-icon.png" width="45" height="45"></a>
 <a href="https://edabit.com/user/PeAmHRaoZajrr2asa"><img src="https://icons.iconarchive.com/icons/spoon-graphics/monster/128/Green-Monster-icon.png" width="45" height="45"></a>
@@ -105,7 +105,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
 
 
-
+<!-- Snake -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake-dark.svg">
@@ -122,10 +122,3 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
 
 <!-- end -->
-
-
-<!-- <img src="https://camo.githubusercontent.com/2ecad22021fc13e37458a8d2b508a47352c096930f163927cb191353106f9309/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f646f636b65722d69636f6e2e737667" alt="icon" width="40" height="40">-->
-
-
-
-<img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Amazon Clone.gif"width="40" height="40" alt="Amazon Clone"  />
