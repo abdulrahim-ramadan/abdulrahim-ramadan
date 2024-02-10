@@ -52,7 +52,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 </p>
 
 
-<img width='34%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Skills & Tools__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
+<img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Skills & Tools__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 
 
 <!-- Skills & Tools -->
@@ -131,4 +131,3 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
 
 
-<img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Amazon Clone.gif"width="40" height="40" alt="Amazon Clone"  />
