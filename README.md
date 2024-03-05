@@ -123,4 +123,4 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=footer"/>
 
 
-<!-- end -->
+<!-- end code -->
