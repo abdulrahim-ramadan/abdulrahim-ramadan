@@ -1,6 +1,6 @@
-<!------- Title ----->
+<!-------- Title ------>
 
-<!----- Please ⭐ the repo to support our project ---->
+<!------ Please ⭐ the repo to support our project ----->
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan"> 
@@ -41,7 +41,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
 
 
-<!-- Socials -->
+<!--- Socials --->
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahim-ramadan-3983b6299/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"></a>
 <a href="https://instagram.com/#"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="90"></a>
