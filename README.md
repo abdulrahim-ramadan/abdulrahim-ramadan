@@ -61,7 +61,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
             <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
             <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="40" height="40" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="39" height="40" />
             <td align="center" width="96"> 
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
             <td align="center" width="96">
