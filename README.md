@@ -95,9 +95,9 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 <td align="center" width="96">
 <a href="https://www.hackerrank.com/profile/abdalrhim19991"> <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="45" height="45"></a>
 <td align="center" width="96">
-<a href="https://edabit.com/user/PeAmHRaoZajrr2asa"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/edabit.gif" width="45" height="45"></a>
+<a href="https://edabit.com/user/PeAmHRaoZajrr2asa"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/edabit.gif" width="50" height="50"></a>
 <td align="center" width="96">
-<a href="https://edabit.com/user/PeAmHRaoZajrr2asa"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/sololearn.gif" width="45" height="45"></a>
+<a href="https://edabit.com/user/PeAmHRaoZajrr2asa"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/sololearn.gif" width="50" height="50"></a>
 
 </p>
 
