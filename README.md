@@ -1,5 +1,4 @@
 <!--- Title --->
-<!--- 0133051 sta --->
 <!--- Please ⭐ the repo to support our project --->
 
 
@@ -38,7 +37,7 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 
 - 📫 How to reach me **Abdalrhim19991@hotmail.com**
 
-- ⚡ Fun fact **I love vacation***
+- ⚡ Fun fact **I love vacation**
 
 
 
