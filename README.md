@@ -1,10 +1,9 @@
-<!------ Title ----->
-<!---Please⭐the repo to support our protect---!>
+<!---- Please ⭐ the repo to support our project ---->
 
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan"> 
- <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D24823%26project%3D%26in=2332800000">
+ <img href="https://codetime.dev" alt="Custom badge" src="https://img.shields.io/endpoint?style=flat&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D23433%26project%3D%26in%3D2160000000">
  <img src="https://img.shields.io/github/stars/abdulrahim-ramadan?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=blue&style=social" alt="GitHub User's stars"></a>
 </p>
 
@@ -14,7 +13,7 @@
 
 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B+%2C+I'm++Abdulrahim+Ramadan;A+passionate++backend+developer" alt="Typing SVG"  width='70%'/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=500&height=60&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdulrhim+Ramadan;A+passionate+frontend+developer" alt="Typing SVG"  width='70%'/></a>
 
 
 
