@@ -3,7 +3,7 @@
 
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan"> 
- <img src="https://img.shields.io/github/stars/abdulrahim-ramadan?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=blue&style=social" alt="GitHub User's stars"></a>
+<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23433%26minutes%3D288000"> <img src="https://img.shields.io/github/stars/abdulrahim-ramadan?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=blue&style=social" alt="GitHub User's stars"></a>
 </p>
 
 
