@@ -96,6 +96,8 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 <a href="https://edabit.com/user/PeAmHRaoZajrr2asa"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/edabit.gif" width="50" height="50"></a>
 <td align="center" width="96">
 <a href="https://www.sololearn.com/de/profile/31016423"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/sololearn.gif" width="50" height="50"></a>
+<td align="center" width="96">
+<a href="https://www.sololearn.com/de/profile/31016423"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/skillshare-social-media-tutorial-collaboration.svg" width="50" height="50"></a>
 </p>
 
 
