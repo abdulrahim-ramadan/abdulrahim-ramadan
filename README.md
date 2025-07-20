@@ -99,6 +99,8 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 <td align="center" width="96">
 <a href="https://medium.com/@abdalrhim19991"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Medium (1).gif" width="50" height="50"></a>
 <td align="center" width="96">
+<a href="https://stackoverflow.com/users/24819552/abdulrahim-ramadan"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/stack-overflow-logo.png" width="50" height="50"></a>
+<td align="center" width="96">
 <a href="https://www.skillshare.com/en/profile/Sayad-Abdalrhim/118526986"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/skillshare-social-media-tutorial-collaboration.svg" width="50" height="50"></a>
 <td align="center" width="96">
 <a href="https://dev.to/abdalrhim19991"> <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/icons.svg" width="50" height="50"></a>
