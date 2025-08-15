@@ -53,33 +53,33 @@ Hello, I’m Abdulrahim Ramadan, a seasoned Python developer dedicated to crafti
 <!--- Skills & Tools --->
 <p  <a href="https://www.python.org/">
         <img src='https://techstack-generator.vercel.app/python-icon.svg' alt="icon" width="40" height="40" />
-            <td align="center" width="96">
+            <td align="center" width="97">
         <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="40" height="40" />
-            <td align="center" width="96">
+            <td align="center" width="97">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
-            <td align="center" width="96">
+            <td align="center" width="97">
         <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="39" height="40" />
-            <td align="center" width="96"> 
+            <td align="center" width="97"> 
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="40" height="40" />
-            <td align="center" width="96">
+            <td align="center" width="97">
         <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/vuejs.gif"width="40" height="40" alt="vuejs logo"  />
-            <td align="center"  width="96">
+            <td align="center"  width="97">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
-            <td align="center"  width="96">
+            <td align="center"  width="97">
         <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Docker.gif"width="40" height="40" alt="Docker logo"  />
-            <td align="center" width="96">
+            <td align="center" width="97">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="40" height="40" />
-            <td align="center"  width="96">
+            <td align="center"  width="97">
         <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/html5.gif"width="40" height="40" alt="html5 logo"  />
-            <td align="center"  width="96">
+            <td align="center"  width="97">
         <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/css3.gif"width="40" height="40" alt="css3 logo"  />
-            <td align="center"  width="96">
+            <td align="center"  width="97">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"width="40" height="40" alt="bootstrap logo"  />
-            <td align="center"  width="96">
+            <td align="center"  width="97">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"width="40" height="40" alt="vscode logo"  />
-            <td align="center" width="96"> 
+            <td align="center" width="97"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="40" height="40" alt="Git" />
-            <td align="center" width="96"> 
+            <td align="center" width="97"> 
        <!-- <img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Adobe.gif" width="40" height="40" alt="Adobe" />-->
            <!-- <td align="center"  width="96">-->
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png" alt="linux" width="40" height="40" />
