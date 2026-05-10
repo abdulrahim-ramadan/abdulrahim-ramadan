@@ -1,0 +1,35 @@
+name: Generate Mario Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+
+  workflow_dispatch:
+
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: generate mario contribution graph
+        uses: nicehash/mario-contribution@v1
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/mario-contribution.svg
+            dist/mario-contribution-dark.svg?palette=github-dark
+
+      - name: push mario contribution to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
