@@ -167,7 +167,7 @@ me.say_hi()
 
 </div>
 
-
+<br/>
 <!--- Socials --->
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahim-ramadan-3983b6299/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="90"></a>
@@ -191,6 +191,7 @@ me.say_hi()
 <img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image"><span style='font-size: 50px; width: 20%;'>__Learn to code__</span><img width='35%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line Image">
 </div>
 
+<br/>
 
 <!-- Learning -->
 <p align="left">&nbsp;<a href="https://www.hackerrank.com/profile/abdalrhim19991"><img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="52" height="52"></a>&nbsp;<a href="https://edabit.com/user/PeAmHRaoZajrr2asa"><img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/edabit.gif" width="52" height="52"></a>&nbsp;<a href="https://www.sololearn.com/de/profile/31016423"><img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/sololearn.gif" width="52" height="52"></a>&nbsp;<a href="https://medium.com/@abdalrhim19991"><img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/Medium (1).gif" width="52" height="52"></a>&nbsp;<a href="https://stackoverflow.com/users/24819552/abdulrahim-ramadan"><img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/stack-overflow-logo.png" width="52" height="52"></a>&nbsp;<a href="https://www.skillshare.com/en/profile/Sayad-Abdalrhim/118526986"><img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/skillshare-social-media-tutorial-collaboration.svg" width="52" height="52"></a>&nbsp;<a href="https://dev.to/abdalrhim19991"><img src="https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/icons.svg" width="52" height="52"></a></p>
