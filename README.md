@@ -74,7 +74,7 @@ me.say_hi()
 
 <div align="center">
 
-<img width='30%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line"/>&nbsp;&nbsp;<b> ls projects/</b>&nbsp;&nbsp;<img width='30%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line"/>
+<img width='30%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line"/>&nbsp;&nbsp;<b> ls projects </b>&nbsp;&nbsp;<img width='30%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line"/>
 
 <br/><br/>
 
