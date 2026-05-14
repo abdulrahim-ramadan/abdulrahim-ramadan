@@ -1,0 +1,346 @@
+# yaml-language-server: $schema=https://cortex.dev/schema/v1.json
+# ═══════════════════════════════════════════════════════════════
+#   Cortex Profile — Abdulrahim Ramadan
+# ═══════════════════════════════════════════════════════════════
+
+identity:
+  name: "Abdulrahim Ramadan"
+  github_user: "abdulrahim-ramadan"
+  tagline: "Python Developer & Full-Stack Architect · Munich, Germany"
+
+brand:
+  palette: "neon-rainbow"
+
+# ═══════════════════════════════════════════════════════════════
+#   The Neon Brain (Skill Atlas)
+# ═══════════════════════════════════════════════════════════════
+brain:
+  enabled: true
+  atmosphere:
+    show_aura: true
+    show_particles: true
+    show_halos: true
+    wobble: true
+  three_d:
+    enabled: true
+  # Lobes mapped to skill domains
+  lobes:
+    - name: "Backend"
+      region: "frontal"
+      tools: ["Python", "Django", "DRF", "FastAPI"]
+    - name: "Frontend"
+      region: "occipital"
+      tools: ["JavaScript", "TypeScript", "React", "Vue.js"]
+    - name: "Architecture"
+      region: "parietal"
+      tools: ["REST APIs", "Microservices", "Clean Code"]
+    - name: "Data Layer"
+      region: "temporal"
+      tools: ["MySQL", "PostgreSQL", "SQLite"]
+    - name: "DevOps"
+      region: "cerebellum"
+      tools: ["Docker", "Git", "Linux"]
+    - name: "Tools & UI"
+      region: "brainstem"
+      tools: ["HTML5", "CSS3", "Bootstrap", "Tailwind"]
+
+# ═══════════════════════════════════════════════════════════════
+#   Tech Stack Cards — THE BEAUTIFUL 6-CARD GRID
+# ═══════════════════════════════════════════════════════════════
+cards:
+
+  header:
+    enabled: true
+    shape: wave
+    title: "Abdulrahim Ramadan"
+    subtitle: "PYTHON · DJANGO · FULL-STACK · MUNICH"
+    height: 240
+    animation: drift
+
+  # ━━━ THIS IS THE 6-CARD GRID YOU LOVED ━━━
+  tech_stack:
+    enabled: true
+    show_stats: true
+    cards:
+      - title: "Backend"
+        category: "SERVER · APIS · LOGIC"
+        icon: "⚙️"
+        accent: red
+        tagline: "Robust, well-tested server-side systems."
+        tools:
+          - "Python · Django"
+          - "DRF · FastAPI"
+          - "REST APIs"
+        stats:
+          years: "3+"
+          projects: "20+"
+          mastery: "EXPERT"
+
+      - title: "Frontend"
+        category: "CLIENT · UI · INTERACTION"
+        icon: "🎨"
+        accent: orange
+        tagline: "Interactive, accessible interfaces."
+        tools:
+          - "JavaScript · TypeScript"
+          - "React · Vue.js"
+          - "HTML5 · CSS3 · Bootstrap"
+        stats:
+          years: "3+"
+          projects: "15+"
+          mastery: "ADVANCED"
+
+      - title: "Architecture"
+        category: "SYSTEMS · DESIGN · SCALE"
+        icon: "🏛️"
+        accent: green
+        tagline: "Clean, scalable, maintainable code."
+        tools:
+          - "Clean Code · SOLID"
+          - "OOP · Design Patterns"
+          - "REST · MVC"
+        stats:
+          years: "2+"
+          projects: "10+"
+          mastery: "PROFICIENT"
+
+      - title: "Data Layer"
+        category: "PERSISTENCE · STATE · CACHE"
+        icon: "💾"
+        accent: gold
+        tagline: "Modeling, indexing, performance."
+        tools:
+          - "MySQL · PostgreSQL"
+          - "SQLite · Django ORM"
+          - "Data Modeling"
+        stats:
+          years: "3+"
+          projects: "20+"
+          mastery: "ADVANCED"
+
+      - title: "DevOps"
+        category: "PLATFORM · CI/CD · DEPLOY"
+        icon: "🐳"
+        accent: cyan
+        tagline: "Reliable deployments that don't break."
+        tools:
+          - "Docker · Git"
+          - "GitHub Actions"
+          - "Linux · Bash"
+        stats:
+          years: "2+"
+          projects: "10+"
+          mastery: "ADVANCED"
+
+      - title: "Tools & Quality"
+        category: "TESTING · TOOLS · WORKFLOW"
+        icon: "🛠️"
+        accent: purple
+        tagline: "Testing, debugging, and modern workflows."
+        tools:
+          - "VS Code · Git"
+          - "Testing · Debugging"
+          - "Kali Linux"
+        stats:
+          years: "3+"
+          projects: "25+"
+          mastery: "EXPERT"
+
+  # Current Focus tiles
+  current_focus:
+    enabled: true
+    tiles:
+      - project: "Web Applications"
+        status: SHIPPING
+        accent: red
+        emoji: "🚀"
+        description: "Building refined Django web apps with seamless functionality."
+        tech: [Python, Django, PostgreSQL]
+      - project: "Frontend Development"
+        status: BUILDING
+        accent: cyan
+        emoji: "💻"
+        description: "Crafting modern UIs with React, Vue.js and TypeScript."
+        tech: [React, Vue.js, TypeScript]
+      - project: "API Architecture"
+        status: ACTIVE
+        accent: purple
+        emoji: "🔌"
+        description: "Designing scalable REST APIs and integrations."
+        tech: [Django REST, FastAPI]
+      - project: "DevOps & Deployment"
+        status: EXPLORING
+        accent: green
+        emoji: "🐳"
+        description: "Containerization and cloud deployment workflows."
+        tech: [Docker, Linux, CI/CD]
+
+  # Skill Galaxy
+  galaxy:
+    enabled: true
+    title: "Skill Galaxy"
+    background: nebula
+    stars:
+      - { label: "Python",     color: "#FFD23F", size: 6 }
+      - { label: "Django",     color: "#0C4B33", size: 5 }
+      - { label: "JavaScript", color: "#F7DF1E", size: 5 }
+      - { label: "TypeScript", color: "#3178C6", size: 5 }
+      - { label: "React",      color: "#61DAFB", size: 5 }
+      - { label: "Vue.js",     color: "#4FC08D", size: 4 }
+      - { label: "MySQL",      color: "#00758F", size: 4 }
+      - { label: "Docker",     color: "#2496ED", size: 4 }
+      - { label: "Git",        color: "#F05032", size: 4 }
+      - { label: "Linux",      color: "#FCC624", size: 4 }
+    connections:
+      - ["Python", "Django"]
+      - ["Python", "MySQL"]
+      - ["Django", "React"]
+      - ["JavaScript", "TypeScript"]
+      - ["TypeScript", "React"]
+      - ["TypeScript", "Vue.js"]
+      - ["Docker", "Linux"]
+
+  # Skill Radar
+  radar:
+    enabled: true
+    title: "Stack Profile"
+    breathe: true
+    axes:
+      - { label: "Backend",   value: 92 }
+      - { label: "Frontend",  value: 78 }
+      - { label: "Database",  value: 85 }
+      - { label: "DevOps",    value: 70 }
+      - { label: "API Design", value: 88 }
+      - { label: "Linux",     value: 75 }
+
+  # Code DNA
+  dna:
+    enabled: true
+    title: "Code DNA"
+    languages: ["Python", "JavaScript", "TypeScript", "HTML", "CSS", "SQL", "Bash", "Docker"]
+
+  # Activity Heatmap
+  heatmap:
+    enabled: true
+    palette: neon-rainbow
+    glow: true
+
+  # 3D Stat Cubes
+  cubes:
+    enabled: true
+    orbit: true
+    cubes:
+      - { label: "Commits",   value: "1.2k" }
+      - { label: "Repos",     value: "30+" }
+      - { label: "Stars",     value: "344" }
+      - { label: "Followers", value: "308" }
+      - { label: "Streak",    value: "32d" }
+
+  # Yearly Highlights
+  yearly_highlights:
+    enabled: true
+    years:
+      - year: 2023
+        label: "FOUNDATION"
+        headline: "Started the Journey"
+        bullets:
+          - "Earned Python Fullstack Web Development certificate."
+          - "Built first Django projects on GitHub."
+          - "Discovered clean architecture principles."
+        stats:
+          - { num: "10+", label: "PROJECTS" }
+          - { num: "163★", label: "STARS" }
+      - year: 2024
+        label: "GROWTH"
+        headline: "Building Real Applications"
+        bullets:
+          - "Developed multilingual web platforms."
+          - "Mastered Django REST Framework."
+          - "Open-sourced reusable components."
+        stats:
+          - { num: "20+", label: "REPOS" }
+          - { num: "200+", label: "COMMITS" }
+      - year: 2025
+        label: "SHIPPING"
+        headline: "Production & Scale"
+        bullets:
+          - "Shipped client projects with Docker."
+          - "Contributing to open-source community."
+          - "Sharing knowledge online."
+        stats:
+          - { num: "5+", label: "DEPLOYED" }
+          - { num: "300+", label: "FOLLOWERS" }
+      - year: 2026
+        label: "INNOVATING"
+        headline: "Next-Gen Web"
+        bullets:
+          - "Building advanced web applications."
+          - "Architecting scalable platforms."
+          - "Exploring new technologies."
+        stats:
+          - { num: "∞", label: "LEARNING" }
+          - { num: "🚀", label: "SHIPPING" }
+
+  # Achievement Wall
+  trophies:
+    enabled: true
+    title: "Milestones"
+    columns: 4
+    trophies:
+      - { label: "Python Cert",    date: "2023", glyph: "🎓" }
+      - { label: "First Django",   date: "2023", glyph: "🐍" }
+      - { label: "100 Stars",      date: "2024", glyph: "⭐" }
+      - { label: "Open Source",    date: "2024", glyph: "🌟" }
+      - { label: "Multilingual",   date: "2024", glyph: "🌍" }
+      - { label: "Docker Pro",     date: "2025", glyph: "🐳" }
+      - { label: "300 Followers",  date: "2025", glyph: "👥" }
+      - { label: "Full-Stack",     date: "2026", glyph: "💎" }
+
+  # Skill Badges
+  badges:
+    enabled: true
+    shape: pill
+    layout: row
+    animation: stagger
+    items:
+      - { icon: python,     label: "Python",      value: "Expert" }
+      - { icon: django,     label: "Django",      value: "Senior" }
+      - { icon: javascript, label: "JavaScript",  value: "Advanced" }
+      - { icon: typescript, label: "TypeScript",  value: "Advanced" }
+      - { icon: react,      label: "React",       value: "Mid" }
+      - { icon: docker,     label: "Docker",      value: "Daily" }
+      - { icon: git,        label: "Git",         value: "Daily" }
+      - { icon: linux,      label: "Linux",       value: "Expert" }
+
+  # Footer
+  footer:
+    enabled: true
+    shape: wave
+    title: "@abdulrahim-ramadan"
+    subtitle: "Let's build something amazing together"
+    height: 180
+    animation: drift
+
+# ═══════════════════════════════════════════════════════════════
+#   Typing Animations
+# ═══════════════════════════════════════════════════════════════
+typing:
+  header:
+    languages: [en, de, ar]
+    lines_per_language: 8
+  about:
+    enabled: true
+    lines: 12
+    include: [generic, personal]
+  motto:
+    enabled: true
+    lines: 6
+
+# ═══════════════════════════════════════════════════════════════
+#   Auto-update markers
+# ═══════════════════════════════════════════════════════════════
+auto_update:
+  markers:
+    activity: true
+    latest_releases: true
+    quote_of_the_day: true
