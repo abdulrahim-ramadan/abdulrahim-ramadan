@@ -68,88 +68,21 @@ print(f"Welcome to {me.name}'s profile 🚀")
 
 <br/><br/>
 
-<table align="center" border="0" cellspacing="0" cellpadding="12">
+
+<table align="center" border="0" cellspacing="10" cellpadding="0">
 <tr>
-<!-- Backend Card -->
-<td align="left" width="280" valign="top">
-  <sub><b style="color:#ff4444;">SERVER · APIS · LOGIC</b></sub><br/>
-  <h3>⚙️ Backend</h3>
-  <i>Robust, well-tested server-side systems.</i>
-  <br/><br/>
-  <code>Python · Django</code><br/>
-  <code>DRF · FastAPI</code><br/>
-  <code>REST APIs</code>
-  <br/><br/>
-  <sub><b>3+</b> YEARS &nbsp;·&nbsp; <b>20+</b> PROJECTS &nbsp;·&nbsp; <b style="color:#ff4444;">EXPERT</b></sub>
-</td>
-<!-- Frontend Card -->
-<td align="left" width="280" valign="top">
-  <sub><b style="color:#ff8c00;">CLIENT · UI · INTERACTION</b></sub><br/>
-  <h3>🎨 Frontend</h3>
-  <i>Interactive, accessible interfaces.</i>
-  <br/><br/>
-  <code>JavaScript · TypeScript</code><br/>
-  <code>React · Vue.js</code><br/>
-  <code>HTML5 · CSS3 · Bootstrap</code>
-  <br/><br/>
-  <sub><b>3+</b> YEARS &nbsp;·&nbsp; <b>15+</b> PROJECTS &nbsp;·&nbsp; <b style="color:#ff8c00;">ADVANCED</b></sub>
-</td>
-<!-- Architecture Card -->
-<td align="left" width="280" valign="top">
-  <sub><b style="color:#00ff88;">SYSTEMS · DESIGN · SCALE</b></sub><br/>
-  <h3>🏛️ Architecture</h3>
-  <i>Clean, scalable, maintainable code.</i>
-  <br/><br/>
-  <code>Clean Code · SOLID</code><br/>
-  <code>OOP · Design Patterns</code><br/>
-  <code>REST · MVC</code>
-  <br/><br/>
-  <sub><b>2+</b> YEARS &nbsp;·&nbsp; <b>10+</b> PROJECTS &nbsp;·&nbsp; <b style="color:#00ff88;">PROFICIENT</b></sub>
-</td>
+<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/backend.svg" width="100%" alt="Backend"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/frontend.svg" width="100%" alt="Frontend"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/architecture.svg" width="100%" alt="Architecture"/></td>
 </tr>
 <tr>
-<!-- Data Layer Card -->
-<td align="left" width="280" valign="top">
-  <sub><b style="color:#ffd700;">PERSISTENCE · STATE · CACHE</b></sub><br/>
-  <h3>💾 Data Layer</h3>
-  <i>Modeling, indexing, performance.</i>
-  <br/><br/>
-  <code>MySQL · PostgreSQL</code><br/>
-  <code>SQLite · Django ORM</code><br/>
-  <code>Data Modeling</code>
-  <br/><br/>
-  <sub><b>3+</b> YEARS &nbsp;·&nbsp; <b>20+</b> PROJECTS &nbsp;·&nbsp; <b style="color:#ffd700;">ADVANCED</b></sub>
-</td>
-<!-- DevOps Card -->
-<td align="left" width="280" valign="top">
-  <sub><b style="color:#00bfff;">PLATFORM · CI/CD · DEPLOY</b></sub><br/>
-  <h3>🐳 DevOps</h3>
-  <i>Pipelines that don't break on Friday.</i>
-  <br/><br/>
-  <code>Docker · Git</code><br/>
-  <code>GitHub Actions</code><br/>
-  <code>Linux · Bash</code>
-  <br/><br/>
-  <sub><b>2+</b> YEARS &nbsp;·&nbsp; <b>10+</b> PROJECTS &nbsp;·&nbsp; <b style="color:#00bfff;">ADVANCED</b></sub>
-</td>
-<!-- Tools & Quality Card -->
-<td align="left" width="280" valign="top">
-  <sub><b style="color:#c084fc;">TESTING · TOOLS · WORKFLOW</b></sub><br/>
-  <h3>🛠️ Tools & Quality</h3>
-  <i>Testing, debugging, and modern workflows.</i>
-  <br/><br/>
-  <code>VS Code · Git</code><br/>
-  <code>Testing · Debugging</code><br/>
-  <code>Kali Linux</code>
-  <br/><br/>
-  <sub><b>3+</b> YEARS &nbsp;·&nbsp; <b>25+</b> PROJECTS &nbsp;·&nbsp; <b style="color:#c084fc;">EXPERT</b></sub>
-</td>
+<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/datalayer.svg" width="100%" alt="Data Layer"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/devops.svg" width="100%" alt="DevOps"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/tools.svg" width="100%" alt="Tools"/></td>
 </tr>
 </table>
 
 </div>
-
-<br/>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3"/>
