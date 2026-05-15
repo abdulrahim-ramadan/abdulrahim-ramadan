@@ -71,14 +71,15 @@ print(f"Welcome to {me.name}'s profile 🚀")
 
 <table align="center" border="0" cellspacing="10" cellpadding="0">
 <tr>
-<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/backend.svg" width="100%" alt="Backend"/></td>
-<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/frontend.svg" width="100%" alt="Frontend"/></td>
-<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/architecture.svg" width="100%" alt="Architecture"/></td>
+ <td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/Files/1.svg" width="100%" alt="Frontend"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/Files/2.svg" width="100%" alt="Backend"/></td>
+ <td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/Files/3.svg" width="100%" alt="Data Layer"/></td>
+
 </tr>
 <tr>
-<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/datalayer.svg" width="100%" alt="Data Layer"/></td>
-<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/devops.svg" width="100%" alt="DevOps"/></td>
-<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/cards/tools.svg" width="100%" alt="Tools"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/Files/4.svg" width="100%" alt="DevOps"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/Files/5.svg" width="100%" alt="Architecture"/></td>
+<td><img src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/main/Files/6.svg" width="100%" alt="Tools"/></td>
 </tr>
 </table>
 
