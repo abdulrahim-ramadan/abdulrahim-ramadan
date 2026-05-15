@@ -137,15 +137,15 @@ print(f"Welcome to {me.name}'s profile 🚀")
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img width='28%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line"/>&nbsp;&nbsp;<b>~ /contributions.log</b>&nbsp;&nbsp;<img width='28%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=4500&pause=1200&color=5BA4F5&center=true&vCenter=true&width=720&height=40&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22Simplicity+is+the+soul+of+efficiency.%22;%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22" alt="Quote"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
