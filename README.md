@@ -135,11 +135,7 @@ print(f"Welcome to {me.name}'s profile 🚀")
 <!--                       SNAKE ANIMATION                           -->
 <!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-<div align="center">
 
-<img width='28%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line"/>&nbsp;&nbsp;<b>~ /contributions.log</b>&nbsp;&nbsp;<img width='28%' src='https://github.com/abdulrahim-ramadan/abdulrahim-ramadan/blob/main/Files/line.gif' alt="Line"/>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake-dark.svg">
@@ -147,7 +143,6 @@ print(f"Welcome to {me.name}'s profile 🚀")
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/abdulrahim-ramadan/abdulrahim-ramadan/output/github-contribution-grid-snake.svg" width="100%"/>
 </picture>
 
-</div>
 
 <br/>
 
