@@ -4,6 +4,7 @@
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=abdulrahim-ramadan&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahim-ramadan"> 
 <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=social&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D23433%26minutes%3D288000"> <img src="https://img.shields.io/github/stars/abdulrahim-ramadan?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=blue&style=social" alt="GitHub User's stars"></a>
+<img src="https://img.shields.io/badge/Status-Available%20for%20work-success?style=flat-square"/>
 </p>
 
 
@@ -31,36 +32,25 @@
 
 <br/>
 
-<div align="center">
-
+<!-- Mobile-friendly compact Python class -->
 ```python
-class AbdulrahimRamadan:
-    """A passionate Python developer crafting digital experiences."""
+class Developer:
+    name = "Abdulrahim Ramadan"
+    role = "Python Developer 🐍"
+    location = "Munich, Germany 🇩🇪"
+    languages = ["AR", "DE", "EN"]
+    stack = {
+        "backend":  ["Python", "Django"],
+        "frontend": ["React", "Vue.js"],
+        "database": ["MySQL", "PostgreSQL"],
+        "devops":   ["Docker", "Git", "Linux"],
+    }
+    learning = "Advanced Web Architecture"
+    motto = "Clean code is poetry. 💎"
 
-    def __init__(self):
-        self.name        = "Abdulrahim Ramadan"
-        self.role        = "Python Developer & Web Architect"
-        self.location    = "Munich, Germany 🇩🇪"
-        self.languages   = ["Arabic", "German", "English"]
-        self.stack       = {
-            "backend":   ["Python", "Django", "REST APIs"],
-            "frontend":  ["JavaScript", "TypeScript", "React", "Vue.js"],
-            "database":  ["MySQL", "PostgreSQL"],
-            "devops":    ["Docker", "Git", "Linux"],
-        }
-        self.currently_learning = "Advanced Web Architecture"
-        self.philosophy  = "Clean code is not written by following rules. " \
-                           "It's written by someone who cares."
-
-    def say_hi(self):
-        print("Thanks for visiting — let's build something great together! 🚀")
-
-
-me = AbdulrahimRamadan()
-me.say_hi()
+me = Developer()
+print(f"Welcome to {me.name}'s profile 🚀")
 ```
-
-</div>
 
 <br/>
 
