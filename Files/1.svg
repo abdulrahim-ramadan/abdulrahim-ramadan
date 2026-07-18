@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="320" viewBox="0 0 450 320">
+  <defs>
+    <radialGradient id="bgOrange" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#3a1f05" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0d0805" stop-opacity="1"/>
+    </radialGradient>
+    <filter id="glowOrange" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="strongGlowOrange" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="borderOrange" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff8c00" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#ff6600" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#ff8c00" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  
+  <rect x="10" y="10" width="430" height="300" rx="20" fill="none" stroke="#ff8c00" stroke-width="2" filter="url(#glowOrange)">
+    <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2.5s" begin="0.3s" repeatCount="indefinite"/>
+  </rect>
+  
+  <rect x="10" y="10" width="430" height="300" rx="20" fill="url(#bgOrange)" stroke="url(#borderOrange)" stroke-width="1.5"/>
+  
+  <rect x="10" y="10" width="430" height="300" rx="20" fill="none" stroke="#ffaa44" stroke-width="1" stroke-dasharray="40 1420" opacity="0.8" filter="url(#strongGlowOrange)">
+    <animate attributeName="stroke-dashoffset" values="0;-1460" dur="4s" repeatCount="indefinite"/>
+  </rect>
+  
+  <rect x="20" y="20" width="100" height="3" rx="1.5" fill="#ff8c00" filter="url(#glowOrange)">
+    <animate attributeName="width" values="100;120;100" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  
+  <text x="30" y="50" font-family="Monaco, 'Courier New', monospace" font-size="11" font-weight="700" fill="#ff8c00" letter-spacing="2">CLIENT · UI · INTERACTION</text>
+  
+  <text x="30" y="100" font-size="36">🎨</text>
+  <text x="80" y="100" font-family="Arial, sans-serif" font-size="32" font-weight="800" fill="#ffffff" filter="url(#strongGlowOrange)">
+    Frontend
+    <animate attributeName="fill" values="#ffffff;#ffe8d0;#ffffff" dur="3s" repeatCount="indefinite"/>
+  </text>
+  
+  <text x="30" y="130" font-family="Arial, sans-serif" font-size="13" fill="#cccccc" font-style="italic">Interactive, accessible interfaces.</text>
+  
+  <line x1="30" y1="150" x2="420" y2="150" stroke="#ff8c00" stroke-width="0.5">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2s" repeatCount="indefinite"/>
+  </line>
+  
+  <text x="30" y="180" font-family="Monaco, 'Courier New', monospace" font-size="14" fill="#ffe0c0">JavaScript · TypeScript</text>
+  <text x="30" y="205" font-family="Monaco, 'Courier New', monospace" font-size="14" fill="#ffe0c0">React · Vue.js</text>
+  <text x="30" y="230" font-family="Monaco, 'Courier New', monospace" font-size="14" fill="#ffe0c0">HTML5 · CSS3 · Bootstrap</text>
+  
+  <line x1="30" y1="255" x2="420" y2="255" stroke="#ff8c00" stroke-width="0.5">
+    <animate attributeName="opacity" values="0.2;0.6;0.2" dur="2s" repeatCount="indefinite"/>
+  </line>
+  
+  <text x="30" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="800" fill="#ff8c00" filter="url(#strongGlowOrange)">
+    3+
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
+  </text>
+  <text x="30" y="300" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#cccccc" letter-spacing="1">YEARS</text>
+  
+  <text x="140" y="285" font-family="Arial, sans-serif" font-size="20" font-weight="800" fill="#ff8c00" filter="url(#strongGlowOrange)">
+    15+
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+  </text>
+  <text x="140" y="300" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#cccccc" letter-spacing="1">PROJECTS</text>
+  
+  <text x="300" y="285" font-family="Arial, sans-serif" font-size="13" font-weight="800" fill="#ff8c00" filter="url(#strongGlowOrange)">
+    ADVANCED
+    <animate attributeName="opacity" values="0.7;1;0.7" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+  </text>
+  <text x="300" y="300" font-family="Arial, sans-serif" font-size="9" font-weight="700" fill="#cccccc" letter-spacing="1">MASTERY</text>
+  
+  <rect x="20" y="304" width="60" height="2" rx="1" fill="#ff8c00" filter="url(#glowOrange)">
+    <animate attributeName="width" values="60;80;60" dur="2s" repeatCount="indefinite"/>
+  </rect>
+</svg>
